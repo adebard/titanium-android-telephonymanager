@@ -27,4 +27,4 @@ Then we need to add user permission into tiapp file
 Note: so far some people have conflict about different behavior of  output.
 There are reports that some SIMs cause this method to return null.
 
-Some phone companies do not record the telephone number in the sim
+Some phone companies do not record the telephone number in the SIMs.
