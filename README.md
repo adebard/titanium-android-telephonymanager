@@ -11,7 +11,7 @@ http://docs.appcelerator.com/titanium/3.0/#!/guide/Android_Module_Development_Gu
 
 Install:
 
-See the Titanium documentation for how to install modules into project: 
+See the Titanium documentation for how to install modules: 
 http://docs.appcelerator.com/titanium/3.0/#!/guide/Using_a_Module
 
 Usage:
